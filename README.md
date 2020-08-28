@@ -1,2 +1,2 @@
 # TimelineEditor
- Create data for the game Timeline
+ Create data for the game Timeline.
